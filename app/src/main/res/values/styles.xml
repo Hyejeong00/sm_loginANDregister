@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash Screen-->
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_backgound_png</item>
+        <item name="colorPrimaryDark">@color/dark_yellow</item>
+    </style>
+    <style name="MainTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/main_orange</item>
+        <item name="colorPrimaryDark">@color/dark_orange</item>
+    </style>
+
+</resources>
